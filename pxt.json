@@ -9,7 +9,12 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "introduction-microbit.md",
+        "tutoriel-m5stack.md",
+        "tutoriel-dht11.md",
+        "tutoriel-led-rgb.md",
+        "exercices-avances.md"
     ],
     "testFiles": [
         "test.ts"
