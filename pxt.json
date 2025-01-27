@@ -1,5 +1,5 @@
 {
-    "name": "1m1-UrbanFarm",
+    "name": "1m1-UrbanFarm - Copier",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -15,7 +15,15 @@
         "tutoriel-m5stack.md",
         "tutoriel-dht11.md",
         "tutoriel-led-rgb.md",
-        "exercices-avances.md"
+        "exercices-avances.md",
+        "img/.ts",
+        "guide-depannage.md",
+        "diagnostic-initial.md",
+        "problemes-materiels.md",
+        "problemes-logiciels.md",
+        "outils-de-diagnostic.md",
+        "maintenance-preventive.md",
+        "docs/.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -27,5 +35,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
