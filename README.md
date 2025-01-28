@@ -1,3 +1,13 @@
+# 1M - Projet micro-serre intelligent
+
+## @showdialog
+
+![Logo H@rmonia](https://github.com/ph3n4t3s/2m1-archnet/blob/master/img/Harmonia_v4.jpg?raw=true)
+![Atelier 1](https://github.com/ph3n4t3s/2m1-archnet/blob/master/img/Diapositive14.jpeg?raw=true)
+
+## @showdialog
+
+
 
 > Ouvrir cette page à [https://ph3n4t3s.github.io/1m1-urbanfarm/](https://ph3n4t3s.github.io/1m1-urbanfarm/)
 
