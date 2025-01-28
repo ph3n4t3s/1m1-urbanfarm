@@ -19,7 +19,9 @@
 
 Dans cette activité nous allons utiliser un MicroBit pour faire des mesures et l'envoyer via Bluetooth à un autre MicroBit qui va envoyer les données (mesures reçues) par le port série (USB) pour être récupérée sur un ordinateur.
 
-# Introduction @showdialog
+## @showdialog
+
+# Introduction
 
 Bienvenue dans ce tutoriel qui vous guidera dans la création d'une micro-serre intelligente avec MicroBit ! Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
 
@@ -43,7 +45,9 @@ Pour suivre ce tutoriel, vous aurez besoin de :
    - Des câbles de connexion
    - Un câble micro-USB
 
-## Structure du Tutoriel
+## @showdialog
+
+# Structure du Tutoriel
 
 Le tutoriel est divisé en trois parties progressives :
 
