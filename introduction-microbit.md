@@ -7,7 +7,7 @@
 
 ## @showdialog
 
-ℹ️ ### ⚠️CONSIGNES IMPORTANTES⚠️
+# ⚠️CONSIGNES IMPORTANTES⚠️
 
 > - 🗂️ __Sauvegardez TOUS vos documents__  dans votre répertoire de travail de groupe sur **OneDrive**.
 > - 📝 **Prenez des notes** (sous forme manuscrite ou numérique, peu importe comment, **mais prenez des notes !!!** 😂)
@@ -76,7 +76,9 @@ Le tutoriel est divisé en trois parties progressives :
 3. **Expérimentation** : N'hésitez pas à modifier les programmes
 4. **Documentation** : Prenez des notes sur vos observations
 
-## Préparation de l'Environnement MakeCode
+## @showdialog
+
+# Préparation de l'Environnement MakeCode
 
 1. Ouvrez votre navigateur et allez sur [makecode.microbit.org](https://makecode.microbit.org/)
 2. Cliquez sur "Nouveau Projet"
@@ -95,9 +97,10 @@ Le tutoriel est divisé en trois parties progressives :
 ## Commençons !
 
 Choisissez la partie qui vous intéresse :
-- [Tutoriel M5Stack EARTH](tutoriel-m5stack.md)
-- [Tutoriel DHT11](tutoriel-dht11.md)
-- [Tutoriel LED RGB](tutoriel-led-rgb.md)
+- [Tutoriel M5Stack EARTH](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-m5stack)
+- [Tutoriel DHT11](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-dht11)
+- [Tutoriel LED RGB](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-led-rgb)
 
 Bon apprentissage ! 🌱🤖
 
+[Guide de dépannage](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/guide-depannage)
