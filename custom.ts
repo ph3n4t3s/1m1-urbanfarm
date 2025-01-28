@@ -17,22 +17,20 @@ enum MyEnum {
 //% weight=100 color=#0fbc11 icon=""
 namespace urbanfarm {
     /**
-     * TODO: describe your function here
-     * @param n describe parameter here, eg: 5
-     * @param s describe parameter here, eg: "Hello"
+     * TODO: La fonction log permet d'envoyer des données sur l'ordinateur
+     * @param s représente la chaîne de caractère à envoyer
      * @param e describe parameter here
      */
     //% block
-    export function log(n: number, s: string, e: MyEnum): void {
+    export function log(s: string, e: MyEnum): void {
         // Add code here
     }
 
     /**
-     * TODO: describe your function here
-     * @param value describe value here, eg: 5
+     * TODO: Fonction d'initialisation du système
      */
     //% block
-    export function fib(value: number): number {
-        return value <= 1 ? value : fib(value - 1) + fib(value - 2);
+    export function init(): void {
+        //
     }
 }

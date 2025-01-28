@@ -1,10 +1,10 @@
 # Tutoriel M5Stack EARTH : Mesure de l'Humidité du Sol
 
-## Introduction
+## Introduction @unplugged
 
 Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pour mesurer l'humidité du sol. Ce capteur est essentiel pour notre micro-serre, car il nous permet de savoir quand les plantes ont besoin d'eau.
 
-## Objectifs
+### Objectifs
 - Connecter le M5Stack EARTH au MicroBit
 - Lire les valeurs d'humidité
 - Créer un programme de surveillance
