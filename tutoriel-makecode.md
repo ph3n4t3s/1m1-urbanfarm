@@ -3,13 +3,13 @@
 ## Vue d'ensemble @unplugged
 Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec MicroBit. Il est structuré en plusieurs parties progressives, chacune construisant sur les connaissances acquises précédemment.
 
-## Prérequis Généraux @unplugged
+### Prérequis Généraux 
 - Un ordinateur avec accès à Internet
 - Accès à l'éditeur MakeCode (makecode.microbit.org)
 - Un MicroBit (pour les tests physiques)
 - Aucune connaissance préalable en programmation n'est requise
 
-## Structure du Guide @unplugged
+### Structure du Guide 
 - A. Découverte de l'interface (15-20 min)
 - B. Les Variables (30-40 min)
 - C. Les Conditions (45-50 min)
@@ -17,14 +17,14 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 - E. Les Fonctions (45-50 min)
 - F. Projet Final Intégrateur (60 min)
 
-## Méthodologie d'apprentissage @unplugged
+### Méthodologie d'apprentissage 
 - Chaque section commence par des objectifs clairs
 - Les concepts sont introduits progressivement
 - Des exercices pratiques suivent chaque nouvelle notion
 - Des défis permettent de valider les acquis
 - Des projets intégrateurs consolident l'apprentissage
 
-## Conseils pour bien suivre ce guide @unplugged
+### Conseils pour bien suivre ce guide 
 1. Suivez les sections dans l'ordre
 2. Testez chaque exemple fourni
 3. Complétez les exercices avant de passer à la suite
@@ -36,7 +36,7 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 - Documentation MicroBit : [lien]
 - Communauté d'entraide : [lien]
 
-# Section A - Découverte de l'interface MakeCode
+# Section A - Découverte de l'interface MakeCode @unplugged
 > Cette section vous permettra de faire vos premiers pas dans l'environnement MakeCode.
 
 ## Objectifs d'apprentissage @unplugged
