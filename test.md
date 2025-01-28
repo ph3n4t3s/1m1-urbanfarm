@@ -52,6 +52,9 @@ Go further - try adding more ``||basic:show leds||`` blocks to create a longer a
 ```template
 basic.forever(function() {})
 ```
+
+---
+
 # Rock Paper Scissors
 
 ## {Introduction @unplugged}
