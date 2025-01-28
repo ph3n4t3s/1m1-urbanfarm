@@ -1,4 +1,11 @@
-# Création d'une Micro-Serre avec MicroBit
+# Création d'une Micro-serre avec MicroBit
+
+## @showdialog
+
+![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
+![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
+
+## @showdialog
 
 ## Introduction
 
