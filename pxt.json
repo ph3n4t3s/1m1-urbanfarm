@@ -16,15 +16,14 @@
         "tutoriel-dht11.md",
         "tutoriel-led-rgb.md",
         "exercices-avances.md",
-        "img/.ts",
         "guide-depannage.md",
         "diagnostic-initial.md",
         "problemes-materiels.md",
         "problemes-logiciels.md",
         "outils-de-diagnostic.md",
         "maintenance-preventive.md",
-        "docs/.ts",
-        "main.py"
+        "main.py",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -36,5 +35,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
