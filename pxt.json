@@ -23,7 +23,8 @@
         "outils-de-diagnostic.md",
         "maintenance-preventive.md",
         "main.py",
-        "custom.ts"
+        "custom.ts",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
