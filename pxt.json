@@ -25,8 +25,7 @@
         "main.py",
         "custom.ts",
         "test.md",
-        "tutoriel-makecode.md",
-        "contenu.md"
+        "tutoriel-makecode.md"
     ],
     "testFiles": [
         "test.ts"
