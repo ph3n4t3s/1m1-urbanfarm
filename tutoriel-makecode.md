@@ -35,12 +35,9 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 3. Complétez les exercices avant de passer à la suite
 4. N'hésitez pas à expérimenter
 5. Sauvegardez régulièrement votre travail
+6. N'oubliez pas de sauvegarder également les données
 
-#### Support et Ressources
 
-- Documentation MakeCode : [lien]
-- Documentation MicroBit : [lien]
-- Communauté d'entraide : [lien]
 
 #### Sommaire
 
