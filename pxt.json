@@ -23,7 +23,8 @@
         "problemes-logiciels.md",
         "outils-de-diagnostic.md",
         "maintenance-preventive.md",
-        "docs/.ts"
+        "docs/.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -35,5 +36,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
