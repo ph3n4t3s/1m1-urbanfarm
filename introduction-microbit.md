@@ -1,13 +1,25 @@
 # Création d'une Micro-serre avec MicroBit
 
-## @fullscreen
+## @showdialog
 
 ![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
 ![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
 
-## @fullscreen
+## @showdialog
 
-## Introduction
+ℹ️ ### ⚠️CONSIGNES IMPORTANTES⚠️
+
+> - 🗂️ __Sauvegardez TOUS vos documents__  dans votre répertoire de travail de groupe sur **OneDrive**.
+> - 📝 **Prenez des notes** (sous forme manuscrite ou numérique, peu importe comment, **mais prenez des notes !!!** 😂)
+> - 🛤️ **Organisez** et  **planifiez** votre travail de groupe. (Qui ? Fait quoi ? quand ?)
+> - 🧑‍🧑‍🧒 **Communiquez** entre vous.
+> - 🧭 **Laissez des traces de **TOUTES vos expérimentations** en prenant des **notes**, des **photos** (avec votre téléphone portable) ou des **captures d'écran**.
+> - ⚠️ Mettez à jour le journal de bord tout au long de **CHAQUE séance**.⚠️
+> - 🆘 Si vous êtes **perdu** servez-vous des **guides** et des **ressources** qui sont à votre disposition dans le **répertoire du projet** sur **OneDrive**.
+
+Dans cette activité nous allons utiliser un MicroBit pour faire des mesures et l'envoyer via Bluetooth à un autre MicroBit qui va envoyer les données (mesures reçues) par le port série (USB) pour être récupérée sur un ordinateur.
+
+## Introduction @showdialog
 
 Bienvenue dans ce tutoriel qui vous guidera dans la création d'une micro-serre intelligente avec MicroBit ! Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
 
