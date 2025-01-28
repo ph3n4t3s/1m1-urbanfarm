@@ -24,7 +24,8 @@
         "maintenance-preventive.md",
         "main.py",
         "custom.ts",
-        "test.md"
+        "test.md",
+        "tutoriel-makecode.md"
     ],
     "testFiles": [
         "test.ts"
