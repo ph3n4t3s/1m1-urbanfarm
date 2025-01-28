@@ -1,14 +1,9 @@
 # Création d'une micro-serre avec intelligente
 
-## @showdialog
-
 ![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
 ![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
 
-## @showdialog
-
-
-## Introduction
+## Introduction @unplugged
 
 Bienvenue dans ce tutoriel qui vous guidera dans la création d'une micro-serre intelligente avec MicroBit ! Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
 
@@ -32,25 +27,23 @@ Pour suivre ce tutoriel, vous aurez besoin de :
    - Des câbles de connexion
    - Un câble micro-USB
 
-## @showdialog
-
 ## Structure du Tutoriel
 
 Le tutoriel est divisé en trois parties progressives :
 
-#### 1. Mesure de l'Humidité du Sol
+### 1. Mesure de l'Humidité du Sol
 - Installation du M5Stack EARTH
 - Lecture des données
 - Calibration du capteur
 - Création d'alertes
 
-#### 2. Surveillance de l'Environnement
+### 2. Surveillance de l'Environnement
 - Installation du DHT11
 - Mesure de température et d'humidité
 - Gestion des erreurs
 - Enregistrement des données
 
-#### 3. Contrôle de l'Éclairage
+### 3. Contrôle de l'Éclairage
 - Installation de la LED RGB
 - Création de cycles lumineux
 - Adaptation aux conditions
@@ -62,8 +55,6 @@ Le tutoriel est divisé en trois parties progressives :
 2. **Pratique** : Réalisez tous les exercices proposés
 3. **Expérimentation** : N'hésitez pas à modifier les programmes
 4. **Documentation** : Prenez des notes sur vos observations
-
-## @showdialog
 
 ## Préparation de l'Environnement MakeCode
 
@@ -81,7 +72,7 @@ Le tutoriel est divisé en trois parties progressives :
 3. **Erreurs** : Les erreurs sont normales et font partie de l'apprentissage
 4. **Questions** : N'hésitez pas à demander de l'aide
 
-### Commençons !
+## Commençons !
 
 Choisissez la partie qui vous intéresse :
 - [Tutoriel M5Stack EARTH](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-m5stack)
