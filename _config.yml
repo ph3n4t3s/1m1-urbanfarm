@@ -6,4 +6,3 @@ theme: jekyll-theme-slate
 include:
   - assets
   - README.md
-  - introduction-microbit.md
