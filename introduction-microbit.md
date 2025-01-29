@@ -1,4 +1,4 @@
-## #showdialog
+## @showdialog
 
 ![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
 ![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
@@ -8,7 +8,7 @@
 [![Atelier](https://img.shields.io/badge/analyse-en%20cours-yellow.svg)](introduction-microbit.md)
 [![Guide](https://img.shields.io/badge/dev-en%20cours-yellow.svg)](tutoriel-makecode.md)
 
-## #showdialog
+## @showdialog
 
 # Création d'une micro-serre avec intelligente
 
