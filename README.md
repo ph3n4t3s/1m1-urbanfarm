@@ -15,7 +15,8 @@
 > 4. [Tutoriel actuateur - Led RGB](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-led-rgb)
 > 5. [Exercices avancés](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/exercices-avances)
 
-## [Guide de Dépannage](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/guide-depannage.md)
+## [Guide de Dépannage](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/guide-depannage)
+
 #### Table des Matières
 1. [Diagnostic Initial](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/diagnostic-initial)
 2. [Problèmes Matériels](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/problemes-materiels)
