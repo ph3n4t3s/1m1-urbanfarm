@@ -1,18 +1,6 @@
 # Création d'une micro-serre avec intelligente
 
-## @showdialog
-
-![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
-![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
-
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/ph3n4t3s/1m1-urbanfarm/releases)
-[![Documentation](https://img.shields.io/badge/docs-updating-green.svg)](README.md)
-[![Atelier](https://img.shields.io/badge/analyse-en%20cours-yellow.svg)](introduction-microbit.md)
-[![Guide](https://img.shields.io/badge/dev-en%20cours-yellow.svg)](tutoriel-makecode.md)
-
-## @showdialog
-
-## Introduction
+## Introduction @showdialog
 
 Bienvenue dans ce tutoriel qui vous guidera dans la création d'une micro-serre intelligente avec MicroBit ! Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
 
