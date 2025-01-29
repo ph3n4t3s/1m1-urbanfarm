@@ -36,6 +36,8 @@ Pour suivre ce tutoriel, vous aurez besoin de :
    - Des câbles de connexion
    - Un câble micro-USB
 
+## @showdialog
+
 ## Structure du Tutoriel
 
 Le tutoriel est divisé en trois parties progressives :
@@ -65,21 +67,7 @@ Le tutoriel est divisé en trois parties progressives :
 3. **Expérimentation** : N'hésitez pas à modifier les programmes
 4. **Documentation** : Prenez des notes sur vos observations
 
-## Préparation de l'Environnement MakeCode
-
-1. Ouvrez votre navigateur et allez sur [makecode.microbit.org](https://makecode.microbit.org/)
-2. Cliquez sur "Nouveau Projet"
-3. Familiarisez-vous avec l'interface :
-   - Simulateur (gauche)
-   - Zone de programmation (centre)
-   - Palette de blocs (droite)
-
-### Conseils pour Réussir
-
-1. **Patience** : Prenez votre temps pour comprendre chaque concept
-2. **Tests** : Vérifiez régulièrement votre code avec le simulateur
-3. **Erreurs** : Les erreurs sont normales et font partie de l'apprentissage
-4. **Questions** : N'hésitez pas à demander de l'aide
+## @showdialog
 
 ## Commençons !
 
@@ -88,6 +76,13 @@ Choisissez la partie qui vous intéresse :
 - [Tutoriel DHT11](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-dht11)
 - [Tutoriel LED RGB](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-led-rgb)
 
-Bon apprentissage ! 🌱🤖
+### Conseils pour Réussir
+
+1. **Patience** : Prenez votre temps pour comprendre chaque concept
+2. **Tests** : Vérifiez régulièrement votre code avec le simulateur
+3. **Erreurs** : Les erreurs sont normales et font partie de l'apprentissage
+4. **Questions** : N'hésitez pas à demander de l'aide
+
+> Bon apprentissage ! 🌱🤖
 
 [Guide de dépannage](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/guide-depannage)

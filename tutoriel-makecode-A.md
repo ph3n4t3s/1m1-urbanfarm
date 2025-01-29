@@ -1,5 +1,7 @@
 # Découverte de l'interface MakeCode
 
+## @showdialog
+
 > Cette section vous permettra de faire vos premiers pas dans l'environnement MakeCode.
 
 ## Objectifs d'apprentissage @unplugged

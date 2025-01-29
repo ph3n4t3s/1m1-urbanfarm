@@ -1,5 +1,7 @@
 # Guide de Programmation MicroBit
 
+## @showdialog
+
 ## Vue d'ensemble @unplugged
 
 Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec MicroBit. Il est structuré en plusieurs parties progressives, chacune construisant sur les connaissances acquises précédemment.
@@ -18,7 +20,7 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 - C. Les Conditions (45-50 min)
 - D. Les Boucles (45-50 min)
 - E. Les Fonctions (45-50 min)
-- F. Projet Final Intégrateur (60 min)
+- F. Projet Final (60 min)
 
 #### Méthodologie d'apprentissage
 
@@ -36,8 +38,6 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 4. N'hésitez pas à expérimenter
 5. Sauvegardez régulièrement votre travail
 6. N'oubliez pas de sauvegarder également les données
-
-
 
 #### Sommaire
 
