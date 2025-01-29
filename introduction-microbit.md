@@ -1,8 +1,9 @@
-# Création d'une micro-serre avec intelligente
+# Création d'une micro-serre avec intelligente @showdialog
 
-## Introduction @showdialog
 
-Bienvenue dans ce tutoriel qui vous guidera dans la création d'une micro-serre intelligente avec MicroBit ! Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
+Bienvenue dans cette ensemble de tutoriels qui vous guideront dans la création d'une micro-serre intelligente avec MicroBit !
+
+Ce projet passionnant vous permettra d'apprendre la programmation tout en créant quelque chose d'utile et d'écologique.
 
 ### Objectifs d'Apprentissage
 
