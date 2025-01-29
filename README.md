@@ -24,14 +24,12 @@
 5. [Maintenance Préventive](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/maintenance-preventive)
 
 
-- [Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) 
-- [Lien de partage]()
-- [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35)
+- [Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) - [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35) - [Lien de partage]()
 
 
-# [Tutoriel Makecode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode)
+## [Tutoriel Makecode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode)
 
-## Vue d'ensemble
+### Vue d'ensemble
 
 Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec MicroBit avec avec l'IDE Makecode. Il est structuré en plusieurs parties progressives, chacune construisant sur les connaissances acquises précédemment.
 
@@ -68,9 +66,7 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 5. Sauvegardez régulièrement votre travail
 6. N'oubliez pas de sauvegarder également les données
 
-
-
-#### Sommaire
+### Sommaire
 
 - [Découverte de l'interface MakeCode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeA)
 - [Les Variables](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeB)
