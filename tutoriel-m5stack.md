@@ -1,12 +1,12 @@
-# Tutoriel M5Stack EARTH : Mesure de l'Humidité du Sol
+# M5Stack EARTH : Mesure de l'Humidité du Sol @showdialog
 
-## Introduction @showdialog
+### Introduction
 
 Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pour mesurer l'humidité du sol. Ce capteur est essentiel pour notre micro-serre, car il nous permet de savoir quand les plantes ont besoin d'eau.
 
 ### Objectifs
 - Connecter le M5Stack EARTH au MicroBit
-- Lire les valeurs d'humidité
+- Mesurer le taux d'humidité du sol
 - Créer un programme de surveillance
 - Afficher des alertes visuelles
 
@@ -19,7 +19,10 @@ Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pou
    - 1 câble micro-USB
 
 2. **Schéma de connexions**
+
+ 
 > Faites un shéma de connection selon les indications suivantes :
+
 
    ``` 
    MicroBit          M5Stack EARTH
@@ -31,9 +34,9 @@ Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pou
 
 3. **Câblez le capteur selon le schéma de connexions**
    
+4. Faire un contrôle des 4 yeux
 
-
-## Étape 2 : Premier Programme en Blocs@showdialog
+## Étape 2 : Programme en Blocs @showdialog
 
 Créez le programme suivant :
 
@@ -131,6 +134,7 @@ basic.forever(function () {
 1. Connectez le MicroBit via USB
 2. Ouvrez l'éditeur de données série dans MakeCode
 3. Observez les variations d'humidité en temps réel
+4. Sauvegardez les mesures sous forme de fichier (.csv)
 
 ## Transition vers Python @showdialog
 
