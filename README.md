@@ -4,9 +4,11 @@
 ![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
 
 [![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/ph3n4t3s/1m1-urbanfarm/releases)
-[![Documentation](https://img.shields.io/badge/docs-updating-green.svg)](README.md)
-[![Atelier](https://img.shields.io/badge/analyse-en%20cours-yellow.svg)](introduction-microbit.md)
-[![Guide](https://img.shields.io/badge/dev-en%20cours-yellow.svg)](tutoriel-makecode.md)
+[![Documentation](https://img.shields.io/badge/docs-README-green.svg)](README)
+[![Atelier](https://img.shields.io/badge/atelier-02-yellow.svg)](introduction-microbit)
+[![Guide](https://img.shields.io/badge/guide-atelier-yellow.svg)](guide-depannage)
+[![Tutoriel](https://img.shields.io/badge/tuto-makecode-yellow.svg)](tutoriel-makecode)
+[Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) - [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35) - [Lien de partage](https://makecode.microbit.org/S95627-31074-91125-95558)
 
 ## Contenu de l'atelier
 
@@ -24,10 +26,6 @@
 3. [Problèmes Logiciels](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/problemes-logiciels)
 4. [Outils de Diagnostic](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/outils-de-diagnostic)
 5. [Maintenance Préventive](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/maintenance-preventive)
-
-
-- [Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) - [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35) - [Lien de partage](https://makecode.microbit.org/S95627-31074-91125-95558)
-
 
 ## [Tutoriel Makecode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode)
 

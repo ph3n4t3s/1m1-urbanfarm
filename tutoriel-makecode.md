@@ -1,8 +1,6 @@
 # Guide de Programmation MicroBit
 
-## @showdialog
-
-## Vue d'ensemble @unplugged
+## Vue d'ensemble @showdialog
 
 Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec MicroBit. Il est structuré en plusieurs parties progressives, chacune construisant sur les connaissances acquises précédemment.
 
@@ -41,9 +39,9 @@ Ce guide complet vous accompagnera dans l'apprentissage de la programmation avec
 
 #### Sommaire
 
-- [Découverte de l'interface MakeCode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeA)
-- [Les Variables](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeB)
-- [Les Conditions](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeC)
-- [Les Boucles](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeD)
-- [Les Fonctions](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeE)
-- [Projet Final](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecodeF)
+- [Découverte de l'interface MakeCode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-A)
+- [Les Variables](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-B)
+- [Les Conditions](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-C)
+- [Les Boucles](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-D)
+- [Les Fonctions](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-E)
+- [Projet Final](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode-F)
