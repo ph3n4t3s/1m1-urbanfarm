@@ -16,6 +16,7 @@ Ce projet passionnant vous permettra d'apprendre la programmation tout en créan
 ### Prérequis
 
 Pour suivre ce tutoriel, vous aurez besoin de :
+
 1. Un ordinateur avec accès à Internet
 2. Un MicroBit V2
 3. Les composants suivants :
@@ -25,11 +26,15 @@ Pour suivre ce tutoriel, vous aurez besoin de :
    - Des câbles de connexion
    - Un câble micro-USB
 
+![Matériel de l’atelier](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/materiel.png?raw=true) 
+
 ## @showdialog
 
-## Structure du Tutoriel
+## Structure du tutoriel
 
-Le tutoriel est divisé en trois parties progressives :
+Le tutoriel est divisé en trois parties progressives. L’automatisation est conçue selon la boucle de rétro-action suivante :
+
+![Automatisation](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/automatisation.png?raw=true)
 
 ### 1. Mesure de l'Humidité du Sol
 - Installation du M5Stack EARTH
@@ -39,7 +44,7 @@ Le tutoriel est divisé en trois parties progressives :
 
 ### 2. Surveillance de l'Environnement
 - Installation du DHT11
-- Mesure de température et d'humidité
+- Mesure de la température et de l'humidité
 - Gestion des erreurs
 - Enregistrement des données
 
@@ -49,18 +54,20 @@ Le tutoriel est divisé en trois parties progressives :
 - Adaptation aux conditions
 - Optimisation énergétique
 
-### Comment Utiliser ce Tutoriel
+### Consignes
 
-1. **Progression** : Suivez les parties dans l'ordre
-2. **Pratique** : Réalisez tous les exercices proposés
+![Protocole de test](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/protocole-de-test.png?raw=true)
+
+1. **Progression** : Suivez les parties (peu importe l'ordre)
+2. **Pratique** : Réalisez tous les exercices proposés et sauvegardez vos données. 
 3. **Expérimentation** : N'hésitez pas à modifier les programmes
 4. **Documentation** : Prenez des notes sur vos observations
+ 
 
-## @showdialog
-
-## Commençons !
+## Commençons @showdialog
 
 Choisissez la partie qui vous intéresse :
+
 - [Tutoriel M5Stack EARTH](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-m5stack)
 - [Tutoriel DHT11](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-dht11)
 - [Tutoriel LED RGB](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-led-rgb)
