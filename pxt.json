@@ -26,7 +26,12 @@
         "custom.ts",
         "test.md",
         "tutoriel-makecode.md",
-        "tutoriel-makecode-A.md"
+        "tutoriel-makecode-A.md",
+        "tutoriel-makecode-B.md",
+        "tutoriel-makecode-C.md",
+        "tutoriel-makecode-D.md",
+        "tutoriel-makecode-E.md",
+        "tutoriel-makecode-F.md"
     ],
     "testFiles": [
         "test.ts"
