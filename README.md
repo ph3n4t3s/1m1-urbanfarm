@@ -3,11 +3,12 @@
 ![Logo H@rmonia](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Harmonia_v4.jpg?raw=true)
 ![Atelier 1](https://github.com/ph3n4t3s/1m1-urbanfarm/blob/master/img/Titre.png?raw=true)
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/ph3n4t3s/1m1-urbanfarm/releases)
+[![Documentation](https://img.shields.io/badge/docs-updating-green.svg)](README.md)
+[![Atelier](https://img.shields.io/badge/analyse-en%20cours-yellow.svg)](introduction-microbit.md)
+[![Guide](https://img.shields.io/badge/dev-en%20cours-yellow.svg)](tutoriel-makecode.md)
+
 ## Contenu de l'atelier
-1. Introduction et découverte du système
-2. Capteur d'humidité du sol
-3. Capteur d'humidité de l'air
-4. Led RGB
 
 > 1. [Introduction atelier](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/introduction-microbit)
 > 2. [Tutoriel capteur d'humidité et de température de l'air - DHT11](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-dht11)
@@ -25,7 +26,7 @@
 5. [Maintenance Préventive](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/maintenance-preventive)
 
 
-- [Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) - [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35) - [Lien de partage]()
+- [Projet sur GitHub](https://ph3n4t3s.github.io/1m1-urbanfarm/) - [Extension de test](https://makecode.microbit.org/#testproject:e50528d4-76b1-4c94-c30d-902bfd340e35) - [Lien de partage](https://makecode.microbit.org/S95627-31074-91125-95558)
 
 
 ## [Tutoriel Makecode](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/tutoriel-makecode)
