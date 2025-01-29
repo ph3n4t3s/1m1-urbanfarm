@@ -1,15 +1,14 @@
-# Guide de Dépannage Complet pour Micro-Serre MicroBit
+# Guide de dépannage - Micro-Serre MicroBit
 
-## Table des Matières
+## Table des Matières @showdialog
 1. [Diagnostic Initial](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/diagnostic-initial)
 2. [Problèmes Matériels](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/problemes-materiels)
 3. [Problèmes Logiciels](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/problemes-logiciels)
 4. [Outils de Diagnostic](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/outils-de-diagnostic)
 5. [Maintenance Préventive](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/maintenance-preventive)
 
-## @showdialog
 
-# Diagnostic Initial
+# Diagnostic Initial @showdialog
 
 ### Programme de Test Rapide
 Utilisez ce programme pour vérifier rapidement tous les composants :
@@ -109,9 +108,7 @@ testeur.executer_diagnostics()
    - [ ] Pas d'humidité excessive
    - [ ] Pas d'interférences électromagnétiques proches
 
-## @showdialog
-
-# Problèmes Matériels
+# Problèmes Matériels @showdialog
 
 ### 1. Capteur DHT11
 
@@ -253,10 +250,7 @@ def verifier_pwm():
             sleep(1000 // freq)
 ```
 
-
-## @showdialog
-
-# Problèmes Logiciels
+# Problèmes Logiciels @showdialog
 
 ### 1. Problèmes de Communication
 
@@ -297,9 +291,7 @@ class GestionnaireMemoireSerre:
         gc.collect()  # Nettoyage mémoire si disponible
 ```
 
-## @showdialog
-
-# Outils de Diagnostic
+# Outils de Diagnostic @showdialog
 
 ### 1. Moniteur Système
 ```python
@@ -349,16 +341,14 @@ class AnalyseurPerformance:
             print(f"{nom}: {moy}ms en moyenne")
 ```
 
-## @showdialog
+# Maintenance Préventive @showdialog
 
-# Maintenance Préventive
-
-### 1. Planning de Maintenance
+## 1. Planning de Maintenance @showdialog
 - Quotidien : Vérification visuelle
 - Hebdomadaire : Test des capteurs
 - Mensuel : Calibration complète
 
-### 2. Programme de Maintenance Automatique
+## 2. Programme de Maintenance Automatique @showdialog
 ```python
 class MaintenanceAutomatique:
     def __init__(self):
@@ -383,7 +373,7 @@ class MaintenanceAutomatique:
         print("Maintenance complétée")
 ```
 
-### 3. Liste de Vérification Mensuelle
+## 3. Liste de Vérification Mensuelle @showdialog
 - [ ] Nettoyer les capteurs
 - [ ] Vérifier les connexions
 - [ ] Calibrer les capteurs
@@ -391,7 +381,7 @@ class MaintenanceAutomatique:
 - [ ] Sauvegarder les données
 - [ ] Vérifier l'usure des composants
 
-## Résolution des Problèmes Courants
+## Résolution des Problèmes Courants @showdialog
 
 ### Table de Diagnostic Rapide
 
