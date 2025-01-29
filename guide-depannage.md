@@ -1,7 +1,5 @@
 # Guide de Dépannage Complet pour Micro-Serre MicroBit
 
-## @showdialog
-
 ## Table des Matières
 1. [Diagnostic Initial](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/diagnostic-initial)
 2. [Problèmes Matériels](https://makecode.microbit.org/#tutorial:github:ph3n4t3s/1m1-urbanfarm/problemes-materiels)
