@@ -1,6 +1,6 @@
 # Tutoriel M5Stack EARTH : Mesure de l'Humidité du Sol
 
-## Introduction @unplugged
+## Introduction @showdialog
 
 Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pour mesurer l'humidité du sol. Ce capteur est essentiel pour notre micro-serre, car il nous permet de savoir quand les plantes ont besoin d'eau.
 
@@ -10,7 +10,7 @@ Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pou
 - Créer un programme de surveillance
 - Afficher des alertes visuelles
 
-## Étape 1 : Connexion du Matériel
+## Étape 1 : Connexion du Matériel @showdialog
 
 1. **Préparation des composants**
    - 1 MicroBit V2
@@ -18,23 +18,26 @@ Dans ce tutoriel, nous allons apprendre à utiliser le capteur M5Stack EARTH pou
    - 4 câbles de connexion
    - 1 câble micro-USB
 
-2. **Réalisation des connexions**
-   
-   ```
-   MicroBit    ->    M5Stack EARTH
+2. **Schéma de connexions**
+> Faites un shéma de connection selon les indications suivantes :
+
+   ``` 
+   MicroBit          M5Stack EARTH
    GND         ->    GND
    3V3         ->    5V
    P0          <-    D OUT
    P1          <-    A OUT
    ```
 
-## Étape 2 : Premier Programme en Blocs
+3. **Câblez le capteur selon le schéma de connexions**
+   
 
-1. Ouvrez [makecode.microbit.org](https://makecode.microbit.org/)
-2. Créez un nouveau projet "MicroSerre_Sol"
-3. Commençons par un programme simple :
 
-```blocks
+## Étape 2 : Premier Programme en Blocs@showdialog
+
+Créez le programme suivant :
+
+```blocks @showhint
 let humidite = 0
 basic.forever(function () {
     // Lecture de la valeur analogique
@@ -57,11 +60,11 @@ basic.forever(function () {
 - Nous utilisons 500 comme seuil initial
 - Les icônes indiquent si le sol est trop sec ou suffisamment humide
 
-## Étape 3 : Calibration du Capteur
+## Étape 3 : Calibration du Capteur @showdialog
 
 Pour obtenir des mesures plus précises, ajoutons une calibration :
 
-```blocks
+```blocks @showhint
 let valeurAir = 0
 let valeurEau = 0
 let humidite = 0
@@ -108,11 +111,11 @@ basic.forever(function () {
 2. Appuyez sur B avec le capteur dans l'eau (très humide)
 3. Le capteur est maintenant calibré pour ces valeurs extrêmes
 
-## Étape 4 : Ajout de la Communication Série
+## Étape 4 : Ajout de la Communication Série @showdialog
 
 Pour suivre les mesures sur l'ordinateur :
 
-```blocks
+```blocks @showhint
 basic.forever(function () {
     humidite = pins.analogReadPin(AnalogPin.P1)
     pourcentage = Math.map(humidite, valeurAir, valeurEau, 0, 100)
@@ -129,24 +132,7 @@ basic.forever(function () {
 2. Ouvrez l'éditeur de données série dans MakeCode
 3. Observez les variations d'humidité en temps réel
 
-## Exercices Pratiques
-
-### Exercice 1 : Test des Seuils
-1. Modifiez les seuils d'humidité (30% et 80%)
-2. Testez avec différents types de sols
-3. Notez les valeurs optimales pour vos plantes
-
-### Exercice 2 : Amélioration des Alertes
-1. Ajoutez un son quand le sol est trop sec
-2. Créez une animation pour l'arrosage
-3. Affichez le pourcentage d'humidité
-
-### Exercice 3 : Journal de Données
-1. Enregistrez les valeurs toutes les heures
-2. Créez un graphique des variations
-3. Identifiez les tendances
-
-## Transition vers Python
+## Transition vers Python @showdialog
 
 Une fois que vous maîtrisez la version en blocs, passez à la version Python :
 
@@ -218,10 +204,6 @@ while True:
    - Générez des rapports quotidiens
 
 ## Prochaines Étapes
-- [Tutoriel DHT11](lien-vers-tutoriel-dht11)
-- [Tutoriel LED RGB](lien-vers-tutoriel-led-rgb)
+- [Tutoriel DHT11](tutoriel-dht11)
+- [Tutoriel LED RGB](tutoriel-led-rgb)
 
-## Ressources
-- [Documentation M5Stack EARTH](lien)
-- [Référence MakeCode](lien)
-- [Forum d'entraide](lien)
