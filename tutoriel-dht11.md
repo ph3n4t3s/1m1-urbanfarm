@@ -1,10 +1,10 @@
 # Tutoriel DHT11 : Surveillance de l'Environnement de la Micro-Serre
 
-## Introduction
+## Introduction @showdialog
 
 La température et l'humidité de l'air sont comme le "climat" de notre micro-serre. Tout comme nous nous sentons mieux dans une pièce ni trop chaude ni trop froide, les plantes ont besoin d'un environnement équilibré pour prospérer. Le capteur DHT11 va nous permettre de créer ce climat idéal.
 
-## Comprendre le DHT11
+## Comprendre le DHT11 @showdialog
 
 Le DHT11 est un peu comme une mini-station météo. Il mesure deux choses importantes :
 1. **La température** (entre 0°C et 50°C)
@@ -15,7 +15,7 @@ Le DHT11 est un peu comme une mini-station météo. Il mesure deux choses import
    - Comme un hygromètre
    - Précision de ±5%
 
-## Étape 1 : Installation du Matériel
+## Étape 1 : Installation du Matériel @showdialog
 
 ### Composants Nécessaires
 - 1 MicroBit V2
@@ -24,7 +24,8 @@ Le DHT11 est un peu comme une mini-station météo. Il mesure deux choses import
 - 1 câble micro-USB
 
 ### Schéma de Connexion
-```
+
+``` @showhint
 MicroBit    ->    DHT11
 GND         ->    GND (-)
 3V3         ->    VCC (+)
@@ -36,7 +37,7 @@ P0          <-    DATA
 - Évitez de toucher la grille de mesure du capteur
 - Placez le capteur loin des sources de chaleur directe
 
-## Étape 2 : Premier Programme en Blocs
+## Étape 2 : Premier Programme en Blocs @showdialog
 
 ### Installation de l'Extension
 1. Cliquez sur "Extensions" dans MakeCode
@@ -45,7 +46,7 @@ P0          <-    DATA
 
 ### Programme de Base
 
-```blocks
+```blocks @showhint
 // Déclaration des variables
 let temperature = 0
 let humidite = 0
@@ -76,11 +77,11 @@ Notre programme fait trois choses simples :
 2. Il affiche "T:" suivi de la température
 3. Il affiche "H:" suivi de l'humidité
 
-## Étape 3 : Amélioration avec la Gestion d'Erreurs
+## Étape 3 : Amélioration avec la Gestion d'Erreurs @showdialog
 
 Le DHT11 peut parfois avoir du mal à lire les données. Ajoutons une vérification :
 
-```blocks
+```blocks @showhint
 let temperature = 0
 let humidite = 0
 let lecture_valide = false
@@ -122,11 +123,11 @@ basic.forever(function () {
 })
 ```
 
-## Étape 4 : Surveillance Intelligente
+## Étape 4 : Surveillance Intelligente @showdialog
 
 Créons un système qui nous alerte quand les conditions ne sont pas idéales :
 
-```blocks
+```blocks @showhint
 // Configuration des seuils
 let TEMP_MIN = 18
 let TEMP_MAX = 30
@@ -161,11 +162,11 @@ function verifierConditions() {
 }
 ```
 
-## Étape 5 : Enregistrement des Données
+## Étape 5 : Enregistrement des Données @showdialog
 
 Pour suivre l'évolution du climat de notre micro-serre :
 
-```blocks
+```blocks @showhint
 // Envoi des données via série
 serial.writeValue("temperature", temperature)
 serial.writeValue("humidite", humidite)
@@ -174,9 +175,9 @@ serial.writeValue("humidite", humidite)
 serial.writeValue("temps", input.runningTime())
 ```
 
-## Version Python Complète
+## Version Python @showdialog
 
-```python
+```python @showhint
 from microbit import *
 import dht11
 
@@ -315,8 +316,4 @@ while True:
    - Vérifiez la tension d'alimentation
    - Réinitialisez le MicroBit
 
-## Ressources
-- [Documentation DHT11](lien)
-- [Forum MakeCode](lien)
-- [Guides de Dépannage](lien)
 
